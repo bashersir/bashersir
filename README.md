@@ -5,6 +5,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+I'm Basher, a Frond End Web Developer from  Bangladesh and Content Writer. I Spend most of time in coding outstanding projects or writing content.
 <!---
 bashersir/bashersir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
