@@ -10,7 +10,7 @@ bashersir/bashersir is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 # Follow me on
--[Facebook](https://www.facebook.com/bashersir)
--[LinkedIn](https://www.linkedin.com/in/bashersir/)
--[Instagram](https://www.instagram.com/bashersir/)
--[YouTube](https://www.youtube.com/channel/UCScQ-dDOY5QM4deMUbgnJ9A)
+_[Facebook](https://www.facebook.com/bashersir)
+_[LinkedIn](https://www.linkedin.com/in/bashersir/)
+_[Instagram](https://www.instagram.com/bashersir/)
+_[YouTube](https://www.youtube.com/channel/UCScQ-dDOY5QM4deMUbgnJ9A)
