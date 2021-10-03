@@ -5,6 +5,18 @@ I'm Basher, a Frond End Web Developer from  Bangladesh and Content Writer. I Spe
 bashersir/bashersir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+# My basic trainings are on:
+* Web Design & Development
+* Digital Marketing
+
+# My basic skills are on:
+* Photoshop
+* Illustrator
+* Microsoft Word & Excel
+* Premier Pro
+* After Effects
+* Audition
+
 # Follow me on
 * [Facebook](https://www.facebook.com/bashersir)
 * [LinkedIn](https://www.linkedin.com/in/bashersir/)
