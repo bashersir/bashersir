@@ -22,4 +22,5 @@ You can click the Preview link to take a look at your changes.
 * [Facebook](https://www.facebook.com/bashersir)
 * [LinkedIn](https://www.linkedin.com/in/bashersir/)
 * [Instagram](https://www.instagram.com/bashersir/)
+* [Twitter](https://twitter.com/_bashersir)
 * [YouTube](https://www.youtube.com/channel/UCScQ-dDOY5QM4deMUbgnJ9A)
